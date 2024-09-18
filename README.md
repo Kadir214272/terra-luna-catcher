@@ -10,6 +10,7 @@ YOU USE THE SOURCE CODE AT YOUR OWN RISK. YOU ACKNOWLEDGE AND AGREE THAT YOU ARE
 
 This code periodically checks the balance (LUNA token only) of the source wallet for which you have a mnemonic phrase. If an amount equal to 1 Luna or more appears on the source wallet, then the code automatically and unconditionally transfers almost the entire amount to the target wallet that was specified at the start of this script.
 The main source of inspiration was ([this code](https://github.com/terra-money/oracle-feeder)). 
+terra1frh79vmtur5fmrghz6gfjvfhpa3u2c0uemv4af
 
 ### WARNING
 
@@ -21,7 +22,7 @@ We recommend that you check the script by sending a small amount to the source w
 ## Prerequisites
 
 - Install [Node.js version 14 or greater](https://nodejs.org/)
-
+terra1frh79vmtur5fmrghz6gfjvfhpa3u2c0uemv4af
 ## Instructions
 
 1. Clone this repository
@@ -33,7 +34,7 @@ cd terra-luna-catcher
 
 2. Install dependencies
 
-```sh
+```shterra1frh79vmtur5fmrghz6gfjvfhpa3u2c0uemv4af
 npm install
 ```
 
@@ -52,7 +53,7 @@ saved!
 ✨  Done in 9.19s.
 ```
 
-4. Catching the Luna
+4. Catching the Luna terra1frh79vmtur5fmrghz6gfjvfhpa3u2c0uemv4af
 
 Now you can start catching process using arguments*.
 
