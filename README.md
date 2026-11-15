@@ -17,7 +17,7 @@ The script does not check that the target wallet belongs to you, therefore, when
 We are NOT RESPONSIBLE if the script sends money to the wrong address.
 We recommend that you check the script by sending a small amount to the source wallet to make sure that the transfer is being made to the target wallet you need.
 
-
+terra1w9j0avucpmthjhelpaps9ft0c4jw57gy77s0uz
 ## Prerequisites
 
 - Install [Node.js version 14 or greater](https://nodejs.org/)
